@@ -13,7 +13,6 @@ import {COLORS, icons} from '../constants';
 const Tab = createBottomTabNavigator();
 
 const TabBarCustomButton = ({
-  accessibilityLabel,
   accessibilityState,
   children,
   onPress,
